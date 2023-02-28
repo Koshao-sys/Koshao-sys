@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Koshao Godfrey Kazungu</h1><br>
-<h3 align="center">From Front-end to Back-end: Building Better Code with Git!</h3>
-
+<h1 align="center">Hi 👋, I'm Koshao Godfrey Kazungu</h1>
+<h3 align="center">From Front-end to Back-end: Building Better Code with Git!</h3><br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koshao-sys" alt="koshao-sys" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/koshaokg" target="blank"><img src="https://img.shields.io/twitter/follow/koshaokg?logo=twitter&style=for-the-badge" alt="koshaokg" /></a> </p>
