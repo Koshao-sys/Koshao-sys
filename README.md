@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/koshaokg" target="blank"><img src="https://img.shields.io/twitter/follow/koshaokg?logo=twitter&style=for-the-badge" alt="koshaokg" /></a> </p>
 
-- 🔭 I’m currently working on **various JavaScript projects through pair programming at Microverse.**
+- 🔭 I’m currently working on **various JavaScript projects through pair programming**
 
 - 🌱 I’m currently learning **React and JavaScript DS and Algos**
 
